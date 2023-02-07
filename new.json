@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lee Ying Shan",
+            "title": "Asia-Pacific shares struggle for direction ahead of Bank of Japan rate decision - CNBC",
+            "description": "Asia-Pacific shares traded mostly higher as the Bank of Japan announced no change to its yield curve control policy.",
+            "url": "https://www.cnbc.com/2023/01/18/asia-pacific-shares-set-to-trade-flat-ahead-of-bank-of-japan-decision-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107179843-1673998440397-gettyimages-1243657231-JAPAN_TANKAN.jpeg?v=1673999044&w=1920&h=1080",
+            "publishedAt": "2023-01-18T02:37:00Z",
+            "content": "A recession probably won't start now until later in 2023 as consumer spending has been stronger than expected and the Federal Reserve eases up on the intensify of its interest rate hikes, according t… [+869 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow Jones Futures: Market Rally Pauses, Tesla Jumps; What Investors Need Now | Investor's Business Daily - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtZnV0dXJlcy1tYXJrZXQtcmFsbHktcGF1c2VzLXRlc2xhLWp1bXBzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-18T01:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dina Bass",
+            "title": "Microsoft to Cut Engineering Jobs This Week as Layoffs Go Deeper - Yahoo Finance",
+            "description": "(Bloomberg) -- Microsoft Corp. plans to cut jobs in a number of engineering divisions on Wednesday, according to a person familiar with the matter, joining...",
+            "url": "https://finance.yahoo.com/news/microsoft-cut-engineering-jobs-week-191404194.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TQcJAyToyTZwyBgCrbxXow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/090fd79b46303948511dc45080ba3ad1",
+            "publishedAt": "2023-01-18T01:00:00Z",
+            "content": "(Bloomberg) -- Microsoft Corp. plans to cut jobs in a number of engineering divisions on Wednesday, according to a person familiar with the matter, joining the ranks of technology giants that are sca… [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Elon Musk trial: Prospective jurors call him narcissistic, smart - BBC",
+            "description": "The tycoon could be ordered to pay billions of dollars in damages if he loses the lawsuit over a tweet.",
+            "url": "https://www.bbc.com/news/world-us-canada-64293744",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FB0F/production/_128317246_gettyimages-1239416791.jpg",
+            "publishedAt": "2023-01-18T00:51:21Z",
+            "content": "Prospective jurors in a civil lawsuit against Elon Musk have expressed mixed views of the Tesla boss, with some calling him smart and others saying he is \"off his rocker\". \r\nMr Musk, who is being sue… [+2780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jim Cramer warns investors not to panic-sell reliable stocks after Tuesday's losses - CNBC Television",
+            "description": "Cramer warned investors not to sell their stocks in a panic after the Dow Jones Industrial Average and S&P 500 ended the day down on Tuesday.",
+            "url": "https://www.youtube.com/watch?v=NCNugRBYK5E",
+            "urlToImage": "https://i.ytimg.com/vi/NCNugRBYK5E/maxresdefault.jpg",
+            "publishedAt": "2023-01-18T00:26:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "Zachary Brennan",
+            "title": "FDA offers new draft guidance on cancer drug dose optimization with overhaul of maximum tolerated dose paradigm - Endpoints News",
+            "description": "Although sponsors of cancer drugs have historically gone after the maximum tolerated dose (MTD), particularly with chemotherapy, the FDA released new draft guidance today explaining how that traditional paradigm needs to be tweaked with more targeted cancer d…",
+            "url": "https://endpts.com/fda-offers-new-draft-guidance-on-cancer-drug-dose-optimization-with-overhaul-of-maximum-tolerated-dose-paradigm/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2022/08/FDA-social-shutterstock3.jpg",
+            "publishedAt": "2023-01-18T00:19:28Z",
+            "content": "David Kessler, the Biden administration’s chief science officer for Covid-19, will step down this week amid question marks about what the next iteration of the Covid vaccine (from booster to price) w… [+512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Twitter auctions bird statue and other office furniture - BBC",
+            "description": "After axing staff and scrapping perks, Twitter is offloading surplus supplies.",
+            "url": "https://www.bbc.com/news/technology-64312309",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1E0C/production/_128329670_image003.jpg",
+            "publishedAt": "2023-01-17T23:52:36Z",
+            "content": "Twitter has placed hundreds of items from its San Francisco HQ up for auction online.\r\nA statue of the platform's famous bird logo is currently priced at $11,000 (£8,900) with just under 24 hours lef… [+1610 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Irina Ivanova",
+            "title": "Tesla engineer says company faked \"full autopilot\" video: Report - CBS News",
+            "description": "Head of Tesla autopilot said promo was staged and didn't represent car's actual driving capabilities, Reuters reported.",
+            "url": "https://www.cbsnews.com/news/tesla-autopilot-staged-engineer-says-company-faked-full-autopilot/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/13/555c5124-444d-43af-ad94-fe376764e9e0/thumbnail/1200x630/d82f9b0c74c5a5955c8ef118aec703cb/gettyimages-812837562-1.jpg",
+            "publishedAt": "2023-01-17T22:57:00Z",
+            "content": "A Tesla video purporting to demonstrate the automaker's self-driving capabilities was actually staged, according to claims from a senior engineer at the company reported by Reuters.\r\nThe video was sh… [+3321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Meredith Dietz",
+            "title": "How 'SECURE 2.0' Could Boost Your Retirement Plans - Lifehacker",
+            "description": "For workers young and old, these provisions will impact how much you can save for the future.",
+            "url": "https://lifehacker.com/how-secure-2-0-could-boost-your-retirement-plans-1849997015",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/94328eba03730b11216a524499d45b4a.jpg",
+            "publishedAt": "2023-01-17T22:00:00Z",
+            "content": "SECURE 2.0 was signed into law at the end of 2022. Standing for Setting Every Community Up for Retirement Enhancement, the second version of this act is designed to keep building on improvements to t… [+3528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "AP",
+            "title": "Davos Organizers: Musk Wasn't Invited Despite What He Says - HuffPost",
+            "description": "The World Economic Forum says billionaire Elon Musk wasn’t on the guest list for the annual meeting  in Davos, Switzerland — despite what the Twitter owner claims.",
+            "url": "https://www.huffpost.com/entry/davos-forum-elon-musk-invite_n_63c71350e4b01e92885fd5d9",
+            "urlToImage": "https://img.huffingtonpost.com/asset/63c714062100005a00e80fd5.jpeg?cache=oxdcBgw6ut&ops=1200_630",
+            "publishedAt": "2023-01-17T21:53:38Z",
+            "content": "DAVOS, Switzerland (AP) The World Economic Forum says billionaire Elon Musk wasnt on the guest list for the annual meeting of business executives, global leaders and cultural trend-setters in Davos, … [+2993 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Egg prices soar as shortage linked to deadly virus - CNN",
+            "description": "CNN's Vanessa Yurkevich breaks down why the price of a dozen eggs continues to rise across the country.",
+            "url": "https://www.cnn.com/videos/business/2023/01/17/egg-prices-increase-cnntm-yurkevich-pkg-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230111181321-grocery-prices-eggs-0110.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-17T21:50:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Al Root",
+            "title": "Tesla Slashes Prices, Wall Street Slashes Estimates. Investors Don't Care. - Barron's",
+            "description": "Tesla started the new year with a bang, cutting prices significantly in the U.S. to make sure its vehicles qualified for a purchase tax credit. Now Wall Street is making cuts of its own.",
+            "url": "https://www.barrons.com/articles/tesla-stock-vehicle-price-cuts-analysts-estimates-51673963695",
+            "urlToImage": "https://images.barrons.com/im-425852/social",
+            "publishedAt": "2023-01-17T21:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joshua Franklin, Brooke Masters",
+            "title": "Morgan Stanley retains edge over Goldman Sachs due to booming wealth unit - Financial Times",
+            "description": "Diverging fortunes of Wall Street’s premier investment banks laid bare by fourth-quarter earnings",
+            "url": "https://www.ft.com/content/bea23439-f30c-4d57-9704-0e36118a7268",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fde4cdb9c-4313-49fa-9925-cbc214568f14.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-01-17T21:26:04Z",
+            "content": "Plunging profits at the two premier Wall Street investment banks sparked contrasting reactions from investors, who punished Goldman Sachs for a sharp fall in investment banking fees while rewarding M… [+4290 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "AnnaMaria Andriotis, Charley Grant, Gina Heeb",
+            "title": "Goldman Sachs, Morgan Stanley Profits Dented by Deal Slump - The Wall Street Journal",
+            "description": "Wall Street firms also set aside more money to prepare for a potential recession",
+            "url": "https://www.wsj.com/articles/goldman-sachs-profit-plummets-from-deal-making-drought-11673960103",
+            "urlToImage": "https://images.wsj.net/im-703051/social",
+            "publishedAt": "2023-01-17T21:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Erich Schwartzel, Dean Seal",
+            "title": "Disney Defends Board, CEO Robert Iger Against Nelson Peltz's Criticisms - The Wall Street Journal",
+            "description": "Entertainment company says investor lacks understanding of Disney’s business",
+            "url": "https://www.wsj.com/articles/disney-defends-board-ceo-robert-iger-against-peltzs-criticisms-11673971148",
+            "urlToImage": "https://images.wsj.net/im-704735/social",
+            "publishedAt": "2023-01-17T21:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Kyle White",
+            "title": "Bitcoin price strength intensifies as risk-loving traders bring volume back to the crypto market - Cointelegraph",
+            "description": "An increase in Bitcoin trading volume and positive on-chain data appear to be the primary forces behind BTC’s newfound strength.",
+            "url": "https://cointelegraph.com/news/bitcoin-price-strength-intensifies-as-risk-loving-traders-bring-volume-back-to-the-crypto-market",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/b8ff904d-40ac-44c5-b83c-2eb4e41039fe.jpg",
+            "publishedAt": "2023-01-17T21:11:50Z",
+            "content": "The beginning of 2023 has provided Bitcoin (BTC) with bullish indicators and the rally to a year-to-date high at $21,647 has crypto traders hopeful that the worst part of the bear market has ended. T… [+3730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "John Carroll",
+            "title": "Moderna jumps into pivotal pack with promising RSV data as big rivals face off in megablockbuster race - Endpoints News",
+            "description": "There’s a foot race developing for the lead of a multibillion-dollar vaccine market. And once again, Moderna $MRNA promises to be right in the thick of things as some of the biggest blockbuster players in biopharma hustle toward the finish line. After the mar…",
+            "url": "https://endpts.com/moderna-jumps-into-pivotal-pack-with-promising-rsv-data-as-big-rivals-face-off-in-megablockbuster-race/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2023/01/Stephane-Bancel-Moderna-Getty-social.jpg",
+            "publishedAt": "2023-01-17T21:06:20Z",
+            "content": "David Kessler, the Biden administration’s chief science officer for Covid-19, will step down this week amid question marks about what the next iteration of the Covid vaccine (from booster to price) w… [+512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Semenova",
+            "title": "Stock market news live updates: Dow falls sharply as Wall Street's big banks report profit drops - Yahoo Finance",
+            "description": "U.S. stocks closed mixed Tuesday as a shortened but busy week packed with corporate earnings got underway on Wall Street.",
+            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-january-17-2023-115704146.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jZDxL6zXGeBzIvJFMcOUCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/c202e320-9607-11ed-aff3-d5f48cd40c98",
+            "publishedAt": "2023-01-17T21:05:54Z",
+            "content": "U.S. stocks closed mixed Tuesday as a shortened but busy week packed with corporate earnings got underway on Wall Street.\r\nThe Dow Jones Industrial Average (^DJI) shed nearly 400 points, or around 1.… [+3593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs, Rebecca Picciotto",
+            "title": "United results top estimates as demand remains resilient despite high fares - CNBC",
+            "description": "United Airlines' fourth-quarter profit topped Wall Street estimates thanks to strong demand and high fares.",
+            "url": "https://www.cnbc.com/2023/01/17/united-airlines-ual-earnings-q4-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107178030-1673548759143-gettyimages-1246182616-NEWARK_TERMINAL_A.jpeg?v=1673989452&w=1920&h=1080",
+            "publishedAt": "2023-01-17T21:04:12Z",
+            "content": "United Airlines' fourth-quarter profit and outlook for early 2023 topped Wall Street estimates thanks to strong travel demand and high fares.\r\nConsumers' appetite for air travel and willingness to pa… [+4012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Economist"
+            },
+            "author": "The Economist",
+            "title": "Investment banks are struggling in a high-interest-rate world - The Economist",
+            "description": "But the change does not fully explain Goldman Sachs’s struggles",
+            "url": "https://www.economist.com/finance-and-economics/2023/01/17/investment-banks-are-struggling-in-a-high-interest-rate-world",
+            "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230121_FNP502.jpg",
+            "publishedAt": "2023-01-17T20:43:39Z",
+            "content": "Shareholders like profits: a steady stream of income they can count on, quarter after quarter. The earnings Americas biggest banks make, however, are often pushed around by the volatility of the econ… [+3502 chars]"
+        }
+    ]
+}
